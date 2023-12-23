@@ -1,0 +1,16 @@
+C:\Users\ikram\source\repos\Recipe Organizer2\Recipe Organizer2\bin\Debug\net8.0-windows\Recipe Organizer2.exe
+C:\Users\ikram\source\repos\Recipe Organizer2\Recipe Organizer2\bin\Debug\net8.0-windows\Recipe Organizer2.deps.json
+C:\Users\ikram\source\repos\Recipe Organizer2\Recipe Organizer2\bin\Debug\net8.0-windows\Recipe Organizer2.runtimeconfig.json
+C:\Users\ikram\source\repos\Recipe Organizer2\Recipe Organizer2\bin\Debug\net8.0-windows\Recipe Organizer2.dll
+C:\Users\ikram\source\repos\Recipe Organizer2\Recipe Organizer2\bin\Debug\net8.0-windows\Recipe Organizer2.pdb
+C:\Users\ikram\source\repos\Recipe Organizer2\Recipe Organizer2\obj\Debug\net8.0-windows\Recipe_Organizer2.Form1.resources
+C:\Users\ikram\source\repos\Recipe Organizer2\Recipe Organizer2\obj\Debug\net8.0-windows\Recipe Organizer2.csproj.GenerateResource.cache
+C:\Users\ikram\source\repos\Recipe Organizer2\Recipe Organizer2\obj\Debug\net8.0-windows\Recipe Organizer2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ikram\source\repos\Recipe Organizer2\Recipe Organizer2\obj\Debug\net8.0-windows\Recipe Organizer2.AssemblyInfoInputs.cache
+C:\Users\ikram\source\repos\Recipe Organizer2\Recipe Organizer2\obj\Debug\net8.0-windows\Recipe Organizer2.AssemblyInfo.cs
+C:\Users\ikram\source\repos\Recipe Organizer2\Recipe Organizer2\obj\Debug\net8.0-windows\Recipe Organizer2.csproj.CoreCompileInputs.cache
+C:\Users\ikram\source\repos\Recipe Organizer2\Recipe Organizer2\obj\Debug\net8.0-windows\Recipe Organizer2.dll
+C:\Users\ikram\source\repos\Recipe Organizer2\Recipe Organizer2\obj\Debug\net8.0-windows\refint\Recipe Organizer2.dll
+C:\Users\ikram\source\repos\Recipe Organizer2\Recipe Organizer2\obj\Debug\net8.0-windows\Recipe Organizer2.pdb
+C:\Users\ikram\source\repos\Recipe Organizer2\Recipe Organizer2\obj\Debug\net8.0-windows\Recipe Organizer2.genruntimeconfig.cache
+C:\Users\ikram\source\repos\Recipe Organizer2\Recipe Organizer2\obj\Debug\net8.0-windows\ref\Recipe Organizer2.dll
